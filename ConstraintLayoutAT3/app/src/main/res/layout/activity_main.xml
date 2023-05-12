@@ -59,7 +59,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:justificationMode="inter_word"/>
-
+0
     <TextView
         android:id="@+id/texto1"
         android:layout_width="180dp"
